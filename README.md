@@ -25,6 +25,14 @@
 
 ## 下载
 
+### Docker
+
+```
+docker pull apachecn0/think-dast-zh
+docker run -tid -p <port>:80 apachecn0/think-dast-zh
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### PYPI
 
 ```
