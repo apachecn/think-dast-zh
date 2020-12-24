@@ -18,6 +18,7 @@
 &zwj;
 
 + [在线阅读](https://think-dast.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/think-dast-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/think-dast)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/think-dast)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/think-dast)
