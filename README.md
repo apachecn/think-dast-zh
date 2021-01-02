@@ -10,7 +10,7 @@
 > 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 任何你写的代码，超过 6 个月不去看它，当你再看时，都像是别人写的。——Eagleson 定律
 
 +   [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 +   [ApacheCN 学习资源](http://www.apachecn.org/)
